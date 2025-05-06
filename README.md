@@ -1,21 +1,44 @@
-# Orange HRM Software Testing Project
+# Khaled Waleed | Software Tester & QA Engineer
 
-## Introduction
-This repository is dedicated to testing the Orange HRM (Human Resource Management) platform. The project aims to explore and implement different software testing methodologies to ensure the system's functionality, security, and performance. As we progress, we will design test cases, automate testing processes, and document findings to enhance the overall quality of the Orange HRM platform.
+Hi, I'm Khaled — a Communications Engineering student with a growing passion for software testing and quality assurance.  
+I'm currently focused on automation testing using **Java**, **Selenium WebDriver**, and other modern QA tools. I enjoy working on real-world scenarios and writing clean, maintainable test scripts.
 
-## Project Scope
-Our focus will be on:
-- Understanding the Orange HRM system  
-- Designing and executing test cases  
-- Implementing automated and manual testing approaches  
-- Identifying and reporting defects  
+---
 
-More details, including the tech stack, test execution, and contribution guidelines, will be added as we advance in the project.  
+## 💻 Technical Skills
 
-## Group 1 Members  
-- Abdulrhman Ahmed Ibrahim  
-- Farah Mahmoud Mohamed  
-- Makram Ehab Makram  
-- Mirna Hatem Mohammed  
-- Omar Mohamed Ahmed  
-- Sondos Saeed Sophy  
+- Java (OOP)
+- Selenium WebDriver
+- TestNG
+- Maven
+- Git & GitHub
+- Allure Reports
+- Jira & Agile Methodologies
+- Manual Testing (Bug Reporting, Test Case Writing)
+
+---
+
+## 🧪 Projects
+
+### SWAGLABS | Login Automation Testing  
+An end-to-end automated test suite for the login functionality of a demo e-commerce website.  
+Built using **Java + Selenium + TestNG**, with reports generated using **Allure**.
+
+**Key features:**
+- Valid and invalid login tests  
+- Input field validation  
+- Error message verification  
+- Well-structured test classes and reusable methods
+
+> [View Repository](https://github.com/Khaled-Waleed1/SWAGLABS)
+
+---
+
+## 📫 Contact Me
+
+- **Email:** kw4938899@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/khaled-waleed1/
+
+---
+
+Thanks for visiting!
